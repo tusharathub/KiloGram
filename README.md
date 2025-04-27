@@ -7,6 +7,8 @@
 - NeonDb Database integration Prisma
 - Authentication & Authorization
 
+## Live : 
+link : https://kilo-gram-vuir-tusharathubs-projects.vercel.app/
 
 ## Getting Started
 
@@ -19,3 +21,5 @@ email: neneba7568@cotigz.com
 pass : Temp@909505
 
 - Many user can be created (its a social media app)
+
+- 
