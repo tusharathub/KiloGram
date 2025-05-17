@@ -21,5 +21,3 @@ email: neneba7568@cotigz.com
 pass : Temp@909505
 
 - Many user can be created (its a social media app)
-
-- 
